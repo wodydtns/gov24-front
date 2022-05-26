@@ -17,7 +17,7 @@ const Header = () => {
           <Nav className="me-auto">
             <Nav.Link href="list">list</Nav.Link>
             <Nav.Link href="detail">detail</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
+            <Nav.Link href="#pricing">Pricing_ch</Nav.Link>
           </Nav>
           <Form className="d-flex">
             <FormControl
